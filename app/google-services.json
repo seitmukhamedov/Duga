@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541720537140",
+    "project_id": "dugaid",
+    "storage_bucket": "dugaid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541720537140:android:2ae7306f7228cadded4261",
+        "android_client_info": {
+          "package_name": "com.example.duga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541720537140-djva7rts73erqsro6d0oam4n57bcj2d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5cb5RGIIEtutaSrZpsj1wODgmr-qF8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541720537140-djva7rts73erqsro6d0oam4n57bcj2d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
